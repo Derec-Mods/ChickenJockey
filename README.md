@@ -1,5 +1,8 @@
 # 🐔 ChickenJockey
 
+![image](https://github.com/user-attachments/assets/66d4bc7e-057e-4387-8e96-eba3c06a4906)
+
+Created for use on my [University Minecraft world (derex smp)](https://derec4.github.io/derexsmp/notbanlist) + randos
 
 ---
 
