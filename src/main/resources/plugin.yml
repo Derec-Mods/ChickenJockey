@@ -1,0 +1,6 @@
+name: ChickenJockey
+version: '1.0.0.0'
+main: io.github.derec4.chickenJockey.ChickenJockey
+api-version: '1.21'
+authors: [ Derex ]
+description: Because of the Minecraft movie we must have this plugin
