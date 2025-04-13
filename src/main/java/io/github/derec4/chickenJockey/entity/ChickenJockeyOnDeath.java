@@ -20,7 +20,7 @@ public class ChickenJockeyOnDeath implements Listener {
             "As a child, I yearned for the mines...",
             "THIS is a CRAFTING TABLE!",
             "The Overworld!",
-            "Flint and STEEL!",
+            "Flint and STEEEL!",
             "An ENDER PEARL!",
             "CHICKEN JOCKEY!",
             "First we mine, then we craft. Let's MINECRAFT!",
