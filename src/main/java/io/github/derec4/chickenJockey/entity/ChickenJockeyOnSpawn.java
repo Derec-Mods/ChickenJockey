@@ -18,8 +18,8 @@ public class ChickenJockeyOnSpawn implements Listener {
         }
 
         if (entity instanceof Zombie || entity instanceof ZombieVillager || entity instanceof Husk || entity instanceof Drowned || entity instanceof PigZombie) {
-            chicken.setCustomName("CHICKEN JOCKEY");
-            chicken.setCustomNameVisible(true);
+            entity.setCustomName("CHICKEN JOCKEY");
+            entity.setCustomNameVisible(true);
             ChickenJockeySpawnEvent customEvent = new ChickenJockeySpawnEvent(entity, chicken);
             Bukkit.getPluginManager().callEvent(customEvent);
         }
