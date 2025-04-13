@@ -7,7 +7,7 @@
 - Automatically detects chicken jockeys and renames them as such
 - Fires a custom `ChickenJockeySpawnEvent` for plugins like [DiscordSRV](https://modrinth.com/plugin/discordsrv/versions) to hook into.
 - Lightweight and optimized for performance. Chicken jockeys will still despawn like normal
-- 
+- Funny messages on jockey kill
 ---
 
 ### Installation
