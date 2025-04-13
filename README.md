@@ -40,3 +40,10 @@ public void onChickenJockeySpawn(ChickenJockeySpawnEvent event) {
     // Custom behavior
     Bukkit.broadcastMessage("A Chicken Jockey has spawned! Jockey: " + jockey.getType());
 }
+```
+
+❤️ Credits
+Developed by Derex... or derex_, derec4, derexXD, dereXD, derexwq, DereC_, CORRUPT_Greninja, lordnexus123, or whatever iteration of my username we are on at this point. Inspired by the Minecraft movie. 
+
+📜 License
+This project is licensed under the MIT License.
