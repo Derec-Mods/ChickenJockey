@@ -34,7 +34,7 @@ public class ChickenJockeyOnDeath implements Listener {
         Entity entity = event.getEntity();
         Entity vehicle = entity.getVehicle();
 
-        if (vehicle instanceof Chicken chicken && chicken.getCustomName() != null && entity.getCustomName().equals("CHICKEN JOCKEY")) {
+        if (entity.getCustomName() != null && entity.getCustomName().equalsIgnoreCase("chicken jockey")) {
             if (event.getEntity().getKiller() instanceof Player player) {
                 String message = DEATH_MESSAGES.get(random.nextInt(DEATH_MESSAGES.size()));
                 player.sendMessage(ChatColor.RED + message);
